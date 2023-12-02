@@ -47,10 +47,10 @@ section {
     background-color: rgb(159, 3, 3);
     opacity: .8;
     font-size: 1.5rem;
-    padding: 1rem 2rem;
+    padding: 1cap;
     color: #ffffff;
-    width: 660px;
-    margin-bottom: 2rem;
+    width: 550px;
+    margin-bottom: 2ch;
     text-align: center;
 }
 
@@ -58,9 +58,9 @@ section {
     background-color: rgb(159, 3, 3);
     opacity: .8;
     font-size: 1.5rem;
-    padding: 1rem 2rem;
+    padding: 1cap;
     color: #ffffff;
-    width: 660px;
+    width: 630px;
     text-align: center;
     align-self: flex-end;
     margin-bottom: 2rem;
@@ -113,7 +113,7 @@ header nav a {
     padding: 1rem 2.5rem;
 }
 
-/* the first section/hot  */
+/* Here i am going to add styling for the first section/hot  */
 .hot-background {
     height: 100%;
     background-image: url("hot.jpg");
@@ -121,7 +121,7 @@ header nav a {
     background-position: center;
 }
 
-/* the second section/juicy  */
+/* Here i am going to add styling for the second section/juicy  */
 .juicy-background {
     height: 100%;
     background-image: url("juicy.jpg");
@@ -129,7 +129,7 @@ header nav a {
     background-position: center;
 }
 
-/* the third section/cosy  */
+/* Here i am going to add styling for the third section for cosy  */
 .cosy-background {
     height: 100%;
     background-image: url("cosy.jpg");
