@@ -1,4 +1,4 @@
-/*  Styling  */
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ a , h1 {
     font-family: 'Spirax', sans-serif;
 }
 
-/* repeated classes  */
+/*  classes  */
 
 section {
     height: 100vh;
@@ -30,7 +30,7 @@ section {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 20%;
+    top: 25%;
     right: 25%;
     left: 25%;
 }
@@ -43,7 +43,7 @@ section {
     margin-bottom: 2rem;
 }
 
-.p-1 {
+.para-1 {
     background-color: rgb(159, 3, 3);
     opacity: .8;
     font-size: 1.5rem;
@@ -54,7 +54,7 @@ section {
     text-align: center;
 }
 
-.p-2 {
+.para-2 {
     background-color: rgb(159, 3, 3);
     opacity: .8;
     font-size: 1.5rem;
